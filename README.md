@@ -2,6 +2,10 @@
 
 Adds SmartyPants Typographer support to discussions and comments.
 
+## Changelog:
+1.01, added support for discussion name/title  
+1.0, initial release  
+
 ## Details
 See [http://vanillaforums.org/addon/smartypants-plugin](http://vanillaforums.org/addon/smartypants-plugin)
 
