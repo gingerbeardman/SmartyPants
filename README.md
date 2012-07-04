@@ -2,7 +2,7 @@
 
 Adds SmartyPants Typographer support to discussions and comments.
 
-## Changelog:
+## Changelog
 1.01, added support for discussion name/title  
 1.0, initial release  
 
